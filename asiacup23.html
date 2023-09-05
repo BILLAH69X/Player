@@ -1,0 +1,53 @@
+ 
+ 
+ 
+ 
+<html>
+<head>
+  <title>
+    Live Streaming Player
+    </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="/css/clap.css">
+  <script src="//cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js" type="text/javascript"></script>
+  <script src="//cdn.jsdelivr.net/npm/level-selector@0.2.0/dist/level-selector.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@clappr/hlsjs-playback@1.0.1/dist/hlsjs-playback.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@clappr/plugin-fullscreen@latest/dist/clappr-plugin-fullscreen.min.js"></script>
+</head>
+<div id="player-wrapper"></div>
+<script>
+var playerElement = document.getElementById("player-wrapper");
+var player = new Clappr.Player({
+source: 'https://video-weaver.ams03.hls.live-video.net/v1/playlist/CrcFtSJ1ACRHJ4FTkq2shO-eG7Hqlp3b1Zt-TFToZyEMdczglOeyTG-CuccEPab-mMdUHZWP-lN8SnLMBVVoJFCIy0doEqJQIoTAlCOSQ5g1-dmPA4mG5-8TujHAVf-5PuRAud09eNtVFs-6PH9pOYcJzvYvS9LimE-g7yywy9__RFJ4Nn9apeAA1l58AyfUea9CHwNMfXetmWkGzSlzWuySeJOMnAA6d2KQtjaYJY4YeFiaxQFHHNefGkDim4Dm8wyien0atqhg22u346uv9ygtfADi9gq3StLFCoTx7c4i6dekE5gZVOy2QMi5jMKVFj4P2zA9r1lV6E43IcMkoE68piVQDNzoDzF3eYc-W4EqvD1t6gqnGaQZXtIFvrEMYrRw2J8LGM9V17LYnKo7J3cCD4_f9zXS06ONPh46hDKjP_BtX-f6pWfEAi8W-PnJuXbi7vTJh3QAoh3f2uGsYKkFMFLISt50cvQZZVkqkDv8PSai9hL-v58AAhZLPDQ9pcLjAMKW5M71f_7OrsJDw_wvFPSOgxRRyuZ7eHd8inVkiS_LqClvctKYqlXjjjQwNqCGHt3iE3HMxBNpZbHxyyVx6WZXXGEyBuE25RaT5qdqAS9zrZUjCUp0SqJtXwn1ZjTIg6DiiqJBgfDWCo2V2ikUedvdGn5zrQY5HrI0qJRIzb1mxBVJ0egbxc8h7Dy45bGjfVotzaTMPgM6UoFg5x8-Gvo4-vUIFSJmgOXiULBI4-P2ABiDe97mpCYyf4bgn1SqrN5vHa6wqFRPIzdXIoAcboC9Lu9YA3MDygrvsK03z6Tb5I5bOi2j9YErNWoyPRVjKLs3VAP7tDP_pUeVSoqyY_4WaX9XuUZHv0EDEC0tqdp9-apgv5iRe7x9B6KqiSl68agZyU48qdg6UYUi4NKdLvtuRlK5T0caDNb8Bo_2NnAChJy8WyABKgl1cy13ZXN0LTIwuQc.m3u8',
+mimeType: 'application/vnd.apple.mpegurl',
+mute: true,
+plugins: [HlsjsPlayback, LevelSelector],
+autoPlay: true,
+height: '100%',
+width: '100%',
+poster: 'poster.jpg'
+});
+player.attachTo(playerElement);
+player.play();
+play();
+</script>
+
+
+</body>
+</html>
+<style>
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.player-wrapper {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  /* Add any additional styling properties for your video player */
+}
+
+</style>
