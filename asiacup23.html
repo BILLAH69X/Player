@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta http-equiv="refresh" content="900">
+  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Include Plyr.io CSS and JS -->
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
@@ -9,9 +11,11 @@
       margin: 0;
       background-color: black;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       height: 100vh;
+      overflow: hidden; /* This prevents scrolling */
     }
 
     .my {
@@ -22,9 +26,19 @@
     #plyr-video {
       margin: 0;
     }
+
+    .button {
+      margin-top: 10px; /* Add some spacing between the button and the video */
+      padding: 10px 20px;
+      background-color: #fff;
+      color: #333;
+      border: none;
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
+  
   <div class="my">
     <video
       controls
@@ -38,7 +52,10 @@
       />
     </video>
   </div>
- 
+
+<button class="button" href="http://sports.enectstudio.tech/asiacup23.html" onclick="window.location.href='http://sports.enectstudio.tech/asiacup23.html'">Watch On PC/TV</button>
+
+
   <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
   <script>
     const player = new Plyr('#plyr-video');
