@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Include Plyr.io CSS and JS -->
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
+  <style>
+    body {
+      margin: 0;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .my {
+      margin: 0;
+      border: solid 1px #fff;
+    }
+
+    #plyr-video {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="my">
+    <video
+      controls
+      id="plyr-video"
+      playsinline
+      autoplay="true"
+    >
+      <source
+        src="https://iam-ranapk.tk/API/ASIA21/play.m3u8"
+        type="application/x-mpegURL"
+      />
+    </video>
+  </div>
+ 
+  <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
+  <script>
+    const player = new Plyr('#plyr-video');
+  </script>
+</body>
+</html>
