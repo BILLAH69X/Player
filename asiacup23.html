@@ -15,7 +15,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      overflow: hidden; /* This prevents scrolling */
+      overflow: hidden;
     }
 
     .my {
@@ -28,13 +28,34 @@
     }
 
     .button {
-      margin-top: 10px; /* Add some spacing between the button and the video */
+      margin-top: 10px; 
       padding: 10px 20px;
       background-color: #fff;
       color: #333;
       border: none;
       cursor: pointer;
+      margin: 30px;
+      font-size: 15px;
     }
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.button-container button {
+  flex-basis: calc(50% - 10px); 
+  margin: 5px; 
+}
+
+@media (min-width: 768px) {
+  .button-container button {
+    flex-basis: calc(25% - 10px); 
+  }
+}
+
+
+
   </style>
 </head>
 <body>
@@ -47,17 +68,22 @@
       autoplay="true"
     >
       <source
-        src="https://streambangla.xyz/JOIN@RANAPK33/play.m3u8"
+        src="https://iam-ranapk.tk/API/ASIA44/play.m3u8"
         type="application/x-mpegURL"
       />
     </video>
   </div>
-<button class="button" href="asiacup237.html" onclick="window.location.href='astrocric.html'">Astro Cricket 1</button>
+  <br>
+  <br>
+<div class="button-container">
+<button class="button" href="http://sports.enectstudio.tech/asiacup23.html" onclick="window.location.href='astrocric.html'">PC/ TV 1</button>
+<button class="button" href="" onclick="window.location.href='http://lxbillah.is-great.net/asiacupfinalgtv.html'">Any Device 2</button>
+<button class="button" href="" onclick="window.location.href='http://lxbillah.is-great.net/asiacupfinaltlt.html'">Server 3</button>
+<button class="button" href="" onclick="window.location.href='http://lxbillah.is-great.net/asiacupfinalstar.html'">Server 4</button>
+<button class="button" href="" onclick="window.location.href='http://lxbillah.is-great.net/asiacupfinaltsports.html'">Server 5</button>
+<button class="button" href="" onclick="window.location.href='http://lxbillah.is-great.net/asiacupfinaland.html'">Mobile Only</button>
 
-  
-<button class="button" href="asiacup237.html" onclick="window.location.href='https://gdplayer.tv/live-tv/astro-cricket/?embed=true'">Watch On PC/TV</button>
-
-
+</div>
   <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
   <script>
     const player = new Plyr('#plyr-video');
