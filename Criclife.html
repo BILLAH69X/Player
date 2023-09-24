@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Match Page</title>
+    <style>
+        body {
+            background-color: black;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column; /* Stack containers vertically */
+            align-items: center;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 600px;
+            margin: 15px 0; /* Add margin between containers */
+        }
+        
+        .match-container {
+            background-color: rgba(255, 255, 255, 0.3);
+            border: 3px solid white;
+            border-radius: 10px;
+            padding: 15px; /* Reduced padding */
+            text-align: center;
+            position: relative;
+        }
+
+        .game-name,
+        .game-info {
+            background-color: #000;
+            color: white;
+            font-size: 15px;
+            padding: 4px;
+            border-radius: 5px;
+            position: absolute;
+            transform: translateX(-50%); /* Center horizontally */
+            left: 50%;
+        }
+
+        .game-name {
+            top: 0;
+            border-radius: 0 0 5px 5px; /* Rounded at the top */
+        }
+
+        .game-info {
+            bottom: 0;
+            margin-top: 30px;
+            border-radius: 5px 5px 0 0; /* Rounded at the bottom */
+            white-space: nowrap; /* Prevent text from breaking to a new line */
+        }
+
+        .team-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 10px; /* Reduced the margin */
+        }
+
+        .team {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .team-logo {
+            width: 70px; /* Reduced the size of team logos */
+            height: 50px; /* Reduced the size of team logos */
+            border: 1px solid white;
+            border-radius: 4px;
+            margin-left: 10px; /* Adjust horizontal position */
+            margin-right: 10px; /* Adjust horizontal position */
+        }
+
+        .team-name {
+            color: white;
+        }
+
+.upcoming {
+     /* Set your desired background color */
+    border-radius: 10px;
+    color: #fff; /* Set your desired text color */
+    margin-top: -15px;
+    width: 80px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+  
+}
+
+                .live-text {
+            background-image: url('https://media.tenor.com/lwM_OPmotpYAAAAi/live-dj-scene.gif'); /* Use a GIF for the live text */
+            background-size: cover;
+            background-color: #fff;
+            border-radius: 10px;
+            color: transparent;
+            margin-top: -15px;
+            width: 80px; /* Adjust the width as needed */
+            height: 40px; /* Adjust the height as needed */
+            animation: changeTextColor 5s linear infinite;
+        }
+
+        @keyframes changeTextColor {
+            0%, 100% {
+                color: transparent;
+            }
+            50% {
+                color: white;
+            }
+        }
+
+        .marquee {
+            background-color: rgba(255, 255, 255, 0.3);
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="marquee">
+            <p>Thanks for downloading our app. Please contact Developer if anything is wrong here.</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="match-container">
+    <div class="game-name">World Cup 2023</div>
+            <div class="team-row">
+                <div class="team">
+                    <img class="team-logo" src="https://cdn.britannica.com/67/6267-004-10A21DF0/Flag-Bangladesh.jpg" alt="Team Logo Left">
+                    <div class="team-name">Bangladesh</div>
+                </div>
+                <div class="live-text"></div>
+                <div class="team">
+                    <img class="team-logo" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" alt="Team Logo Right">
+                    <div class="team-name">India</div>
+                </div>
+            </div>
+            <br>
+            <div class="game-info">Bangladesh vs India Live</div>
+        </div>
+        <br> 
+                <div class="match-container">
+            <div class="game-name">Cricket</div>
+            <div class="team-row">
+                <div class="team">
+                    <img class="team-logo" src="https://cdn.britannica.com/67/6267-004-10A21DF0/Flag-Bangladesh.jpg" alt="Team Logo Left">
+                    <div class="team-name">Bangladesh</div>
+                </div>
+                <div class="upcoming"><p>7:30 PM<br> 19 June</p></div>
+                <div class="team">
+                    <img class="team-logo" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" alt="Team Logo Right">
+                    <div class="team-name">India</div>
+                </div>
+            </div>
+            <div class="game-info">Bangladesh vs India Live</div>
+        </div>
+    </div>
+</body>
+</html>
