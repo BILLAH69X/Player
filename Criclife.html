@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link href="https://fonts.cdnfonts.com/css/zagist" rel="stylesheet">
+                
+  <link href="https://fonts.cdnfonts.com/css/altersan-trial" rel="stylesheet">
+                
+  <link href="https://fonts.cdnfonts.com/css/sunday-lemon" rel="stylesheet">
+                
+  <link href="https://fonts.cdnfonts.com/css/slatew01-medium" rel="stylesheet">
+                
   <link href="https://fonts.cdnfonts.com/css/altersan-trial" rel="stylesheet">
                 
   <link href="https://fonts.cdnfonts.com/css/palette" rel="stylesheet">
@@ -28,9 +36,10 @@
             margin: 15px 0; /* Add margin between containers */
         }
         
-        .match-container {
-            background-color: rgba(255, 255, 255, 0.3);
-            border: 3px solid white;
+        .match-container,
+        .match-container-up{
+            background-color: rgba(204, 242, 255, 0.3);
+            border: 3px solid #66ccff;
             border-radius: 10px;
             padding: 15px; /* Reduced padding */
             text-align: center;
@@ -38,7 +47,8 @@
         }
 
         .game-name,
-        .game-info {
+        .game-info,
+        .game-info-up{
      font-family: 'Doumbar', sans-serif;
                                                 
             background-color: #000;
@@ -60,7 +70,8 @@
             border-radius: 0 0 5px 5px; /* Rounded at the top */
         }
 
-        .game-info {
+        .game-info,
+        .game-info-up{
             bottom: 0;
           margin-bottom: 0px;
             border-radius: 5px 5px 0 0; /* Rounded at the bottom */
@@ -81,7 +92,9 @@
             align-items: center;
         }
 
-        .team-logo {
+        .team-logo1,
+        .team-logo,
+        .team-logo2{
             width: 70px; /* Reduced the size of team logos */
             height: 50px; /* Reduced the size of team logos */
             border: 1px solid white;
@@ -90,7 +103,8 @@
             margin-right: 10px; /* Adjust horizontal position */
         }
 
-        .team-name {
+        .team-name,
+        .team-name-up{
           font-weight: 500;
           margin-top: 6px;
           font-size:18px;
@@ -99,13 +113,18 @@
                                                 
                                                 
             color: white;
+            
         }
 
 .upcoming {
+      font-family: 'SlateW01-Medium', sans-serif;
+                                                          
+                                                
      /* Set your desired background color */
     border-radius: 10px;
+    margin-top: -35px;
     color: #fff; /* Set your desired text color */
-    margin-top: -40px;
+    
     width: 80px; /* Adjust the width as needed */
     height: 40px; /* Adjust the height as needed */
   
@@ -118,8 +137,8 @@
             border-radius: 7px;
             color: transparent;
             margin-top: -15px;
-            width: 80px; /* Adjust the width as needed */
-            height: 40px; /* Adjust the height as needed */
+            width: 70px; /* Adjust the width as needed */
+            height: 35px; /* Adjust the height as needed */
             animation: changeTextColor 5s linear infinite;
         }
 
@@ -132,19 +151,97 @@
             }
         }
 
-        .marquee {
-            background-color: rgba(255, 255, 255, 0.3);
-            border-radius: 10px;
-            padding: 10px;
-            text-align: center;
-        }
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.moveing {
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 3px solid #66ccff;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.scrolling-text {
+ font-family: 'Sunday Lemon', sans-serif;
+ color: #fff;
+                                                
+  display: inline-block;
+  animation: marquee 20s linear infinite;
+  animation-delay: -8s; /* Adjust this value to start immediately */
+}
+
+
+        /* Example media query for smaller screens */
+@media screen and (max-width: 768px) {
+    /* Adjust styles for smaller screens here */
+    .container {
+        width: 93%; /* Example: Wider container on smaller screens */
+    }
+
+    .team-logo,
+    .team-logo1,
+    .team-logo2{
+        width: 60px; /* Example: Smaller team logos on smaller screens */
+        height: 40px;
+    }
+
+    .team-name {
+        font-size: 17px; /* Example: Smaller font size on smaller screens */
+    }
+}
+.match-container {
+  cursor: pointer;
+}
+
+.popup {
+ font-family: 'Zagist', sans-serif;
+                                                
+  display: none;
+  position: fixed;
+  width: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #424242;
+  border: 1px solid #ccc;
+  padding: 15px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.popup-content {
+  text-align: left;
+}
+
+.popup-header {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.popup-body {
+  font-size: 16px;
+  line-height: 2;
+}
+
+.popup a {
+  text-decoration: none;
+  color: #fff;
+}
+
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="marquee">
-            <p>Thanks for downloading our app. Please contact Developer if anything is wrong here.</p>
-        </div>
+        <div class="moveing">
+  <span class="scrolling-text">Thanks for downloading our app. contact fearlessly if the server don't work</span>
+</div>
+
     </div>
 
     <div class="container">
@@ -153,34 +250,100 @@
           
             <div class="team-row">
                 <div class="team">
-                    <img class="team-logo" src="https://cdn.britannica.com/67/6267-004-10A21DF0/Flag-Bangladesh.jpg" alt="Team Logo Left">
-                    <div class="team-name">Bangladesh</div>
+                    <img class="team-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK6n4IAD3ijbeoYIw62UDfdSFXecAL8j-Ug&usqp=CAU" alt="Team Logo Left">
+                    <div class="team-name">England</div>
                 </div>
                 <div class="live-text"></div>
                 <div class="team">
-                    <img class="team-logo" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" alt="Team Logo Right">
-                    <div class="team-name">India</div>
+                    <img class="team-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/800px-Flag_of_New_Zealand.svg.png" alt="Team Logo Right">
+                    <div class="team-name">New Zealand</div>
                 </div>
             </div>
            
-            <div class="game-info">Bangladesh vs India Live</div>
+            <div class="game-info">England VS  New Zealand : Match 1 </div>
         </div>
-        <br> 
-                <div class="match-container">
-            <div class="game-name">Cricket</div>
+       <br>
+                <div class="match-container-up">
+            <div class="game-name">World Cup 2023</div>
             <div class="team-row">
                 <div class="team">
-                    <img class="team-logo" src="https://cdn.britannica.com/67/6267-004-10A21DF0/Flag-Bangladesh.jpg" alt="Team Logo Left">
-                    <div class="team-name">Bangladesh</div>
+                    <img class="team-logo1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhr3nvATCe8OJd1AJCFtylDOulOZ0FFzgvgg&usqp=CAU" alt="Team Logo Left">
+                    <div class="team-name">Pakistan</div>
                 </div>
-                <div class="upcoming"><p>7:30 PM<br> 19 June</p></div>
+                <div class="upcoming"><p>2:30 PM<br> 6 OCT 23</p></div>
                 <div class="team">
-                    <img class="team-logo" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" alt="Team Logo Right">
-                    <div class="team-name">India</div>
+                    <img class="team-logo1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png" alt="Team Logo Right">
+                    <div class="team-name-up">Netherland</div>
                 </div>
             </div>
-            <div class="game-info">Bangladesh vs India Live</div>
+            <div class="game-info-up">Pakistan VS Netherland : Match 02</div>
         </div>
     </div>
+    <div class="popup" id="popup">
+  <div class="popup-content">
+    <div class="popup-header">
+      Multiple Links Available
+    </div>
+    <div class="popup-body">
+      <a href="#">Link 1</a><br>
+      <a href="#">Link 2</a><br>
+      <a href="#">Link 3</a><br>
+    </div>
+  </div>
+</div>
+    <script>
+      const matchContainers = document.querySelectorAll('.match-container');
+const teamLogos = document.querySelectorAll('.team-logo');
+const teamNames = document.querySelectorAll('.live-text');
+const gameInfos = document.querySelectorAll('.game-info');
+const gameCountry = document.querySelectorAll('.team-name');
+const teamRows = document.querySelectorAll('.team-row');
+const popup = document.getElementById('popup');
+
+function showPopup() {
+  popup.style.display = 'block';
+}
+
+function hidePopup(e) {
+  if (!popup.contains(e.target) &&
+      !Array.from(matchContainers).includes(e.target) &&
+      !Array.from(teamLogos).includes(e.target) &&
+      !Array.from(teamNames).includes(e.target) &&
+     !Array.from(gameCountry).includes(e.target)
+     &&
+   !Array.from(teamRows).includes(e.target)
+   &&
+      !Array.from(gameInfos).includes(e.target)) {
+    popup.style.display = 'none';
+  }
+}
+
+// Loop through and add click event listeners for each type of div
+matchContainers.forEach((container) => {
+  container.addEventListener('click', showPopup);
+});
+
+teamLogos.forEach((logo) => {
+  logo.addEventListener('click', showPopup);
+});
+
+teamNames.forEach((name) => {
+  name.addEventListener('click', showPopup);
+});
+
+gameInfos.forEach((info) => {
+  info.addEventListener('click', showPopup);
+});
+
+document.addEventListener('click', hidePopup);
+
+// Prevent the click event from propagating when clicking on the pop-up itself
+popup.addEventListener('click', (e) => {
+  e.stopPropagation();
+});
+
+
+    </script>
+    
 </body>
 </html>
