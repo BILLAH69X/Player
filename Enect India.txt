@@ -1,0 +1,1229 @@
+#EXTINF:-1 tvg-id="1070" group-title=" Enect Studio Official " tvg-logo="" , Enect Studio 
+https://t.me/enectoffical
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",SONY SAB HD
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",&TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COLORS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=36129&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COLORS INFINITY
+http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COLORS HD TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COLORS HD BANGLA
+http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COMEDY CENTRAL
+http://tv.cloudcdn.me:80/live.ts?channelId=4221&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",SONY PAL
+http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",SONY SET HD
+http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COLORS RISHTEY
+http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",INVESTIGATION DISCOVERY 
+http://tv.cloudcdn.me:80/live.ts?channelId=25876&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",STAR PLUS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",SONY SAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=42460&extension=ts&play_token=Z5dmpCSx5O
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ", ZEE TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=945&extension=ts&play_token=zkfmTQwbkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",SONY SET
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118108&extension=ts&play_token=xiCtj6hPky
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",STAR UTSAV
+http://tv.cloudcdn.me:80/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",ZEE ANMOL
+http://tv.cloudcdn.me:80/live.ts?channelId=208&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",ZEE TV
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",STAR BHARAT HD
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:34:f4:5b&stream=363773&extension=ts&play_token=wGPiPaMWur
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ", BIG MAGIC
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:3C:84:E8&stream=363893&extension=ts&play_token=nxZL3mn0Ys
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",DANGAL
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:3C:84:E8&stream=363834&extension=ts&play_token=GH0rPLuofb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",SAHARA ONE
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:3C:84:E8&stream=363847&extension=ts&play_token=rgxutjUVej
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENTERTAINMENT - Enect ",COLORS HD MARATHI
+http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",ANIMAL PLANT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY SCIENCE
+http://tv.cloudcdn.me:80/live.ts?channelId=166&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY
+http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY HD
+http://tv.cloudcdn.me:80/live.ts?channelId=123333&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",NATIONAL GEOGRAPHIC HD
+http://tv.cloudcdn.me:80/live.ts?channelId=4237&uid=2135&deviceMac=00:1A:79:B4:10:2D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY HD INDIA
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:3C:84:E8&stream=363798&extension=ts&play_token=Hl5p7cXZIO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY HISTORY
+http://tv.cloudcdn.me:80/live.ts?channelId=25893&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY FAMILY
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=833223&extension=ts&play_token=3VLFzW8Irq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",SONY BBC EARTH HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155885&extension=ts&play_token=gZShH1IxHj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",HISTORY TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116306&extension=ts&play_token=JtwoGTZgWA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",SAFARI TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155835&extension=ts&play_token=pDe87BUyRr
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",DISCOVERY MAX+
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=941545&extension=ts&play_token=ZgJqzPCwZv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",NAT GEO WILD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118080&extension=ts&play_token=AY4szAMaDp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",NATURE LIFE
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=151996&extension=ts&play_token=pXDqD1dAog
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",NATURE AND ANIMALS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=154894&extension=ts&play_token=1vpMon4bHh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",TLC HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280770&extension=ts&play_token=wScilXINg4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KNOWLEDGE - Enect ",FOOD NETWORK
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156007&extension=ts&play_token=m0sAZc0yD8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",GLOBAL INDIA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327612&extension=ts&play_token=bQCQpMpj0C
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",GLOBAL PUNJAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155963&extension=ts&play_token=g4u5f6j9DM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",BLESS TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327705&extension=ts&play_token=uShiGYlc4e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",SURYA SAMACHAARPATRA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327352&extension=ts&play_token=2Lnmv6HLlX
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",SHEMAROO TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280897&extension=ts&play_token=bcHVt2qTnQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",TV PUNJAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=358116&extension=ts&play_token=HkgkHNLKfh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",MADHA TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327544&extension=ts&play_token=2JylO1E0Zl
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",DD NATIONAL
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327665&extension=ts&play_token=wqPNZLyJgL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",DD INDIA 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327674&extension=ts&play_token=BVBpgJkIdI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NULL - Enect ",DD PUNJAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327677&extension=ts&play_token=dYMVFDEbpC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",9X JALWA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156123&extension=ts&play_token=wUyV7E0BTY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",9XM
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280784&extension=ts&play_token=fFDrsktLsK
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",B4U MUSIC
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280800&extension=ts&play_token=4olQIG0RTj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",E24
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280833&extension=ts&play_token=8iOw1S0CiP
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MASTII
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156050&extension=ts&play_token=MVviGznslr
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MTV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280760&extension=ts&play_token=JDHNKrgstZ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MTV HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=719328&extension=ts&play_token=kbnPiH7YzJ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MTV HITS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=355953&extension=ts&play_token=SCwesrkOrD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MTV BEATS HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156031&extension=ts&play_token=bHMKAXV3P6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",VH1 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=866170&extension=ts&play_token=TagFPDeQ4B
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MUSIC TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=85446&extension=ts&play_token=6MHAQs22RV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",ZOOM
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=945564&extension=ts&play_token=buQMsvdj6W
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",ZING
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156046&extension=ts&play_token=2sSPm4dycg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",THE ANIMALS LIFE
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=866190&extension=ts&play_token=ZchTnVmQio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",NICK MUSIC
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1282940&extension=ts&play_token=vBDU4h9Gy2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",MUSIC AL HALLEN 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=944093&extension=ts&play_token=IjM3KlmO5T
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MUSIC - Enect ",BOX HITS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=45293&extension=ts&play_token=eaWDhTaANr
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",CARTOON NETWORK
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280748&extension=ts&play_token=FhCvKpxvS9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISNEY
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1158195&extension=ts&play_token=XjPvfIFzXt
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISNEY HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",HUNGAMA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1112134&extension=ts&play_token=QtsaBg6cj6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",POGO
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156128&extension=ts&play_token=wrsLHQUiOD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",CARTOON NETWORK HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1282939&extension=ts&play_token=fdl1izXwYf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISNEY XD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=90773&extension=ts&play_token=yys7zJTiIN
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISNEY INTERNATIONAL HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1110627&extension=ts&play_token=wphtwrbAXH
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISCOVERY KIDS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155752&extension=ts&play_token=vImCgmvbFW
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISCOVERY KIDS TAMIL
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155897&extension=ts&play_token=aDbfd2AWAW
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",SUPER HUNGAMA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1112135&extension=ts&play_token=rb6TKKikOK
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",CBEEBIES
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118097&extension=ts&play_token=mcI4IdWE2N
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",ETV BAL BHARAT
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327633&extension=ts&play_token=db4vxgwZ6r
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",NICK
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=281135&extension=ts&play_token=xZO1kz6Q8o
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",NICK JR
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1112194&extension=ts&play_token=HcfLn1ZH04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",NICK TOONS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=833262&extension=ts&play_token=Zkkrd1l3AA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",CHU CHU TV 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=464847&extension=ts&play_token=iD0o1PMbGk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",CHU CHU TV 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=464848&extension=ts&play_token=xS8ijUL9nd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect "CHU CHU TV 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=464854&extension=ts&play_token=KDiQqeampp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",BABY TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=45318&extension=ts&play_token=ukIgFyWq1m
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISNEY XD
+http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",NETFLIX KIDS 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=642107&extension=ts&play_token=SLCO6noiJu
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",DISNEY+1 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=591478&extension=ts&play_token=sNNtLgi15T
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",MR BEAN HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="KIDS - Enect ",TOM AND JERRY
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=ts&play_token=GV8NUy0FxS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS 1 HINDI HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1114582&extension=ts&play_token=wSHdvRVMLR
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TNT SPORTS 1 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=79486&extension=ts&play_token=79vKlVWUS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TNT SPORTS 1 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1047260&extension=ts&play_token=8LllHf1sFO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TNT SPORTS 2 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1047261&extension=ts&play_token=nLMMGTtD06
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TNT SPORTS 2 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=79485&extension=ts&play_token=ZGjaInkrBN
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TNT SPORTS 3 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1047262&extension=ts&play_token=Pyg9UHWhEe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TNT SPORTS 3 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=79484&extension=ts&play_token=9VyrRzf9Wy
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS 1 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1104673&extension=ts&play_token=WbcpQJXWJt
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS 2 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1114581&extension=ts&play_token=oBXTU3dQwX
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS SELECT 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS SELECT 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",ASTRO SUPERSPORTS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1111034&extension=ts&play_token=50DNylpNhW
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",BEIN SPORTS 3 HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1104681&extension=ts&play_token=GkY6dhdzyk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",FLOW SPORTS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1106879&extension=ts&play_token=V6B9hAfyva
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",HUB SPORTS 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1110614&extension=ts&play_token=nZnNYrY2W2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SKY SPORTS CRICKET HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1104668&extension=ts&play_token=Mz699DyTcj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SPORTS MAX CRICKET
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1106882&extension=ts&play_token=hlhJgch6QG
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",FOX CRICKET 501
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1104678&extension=ts&play_token=Xxx4Nq3ow4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SONY SPORTS 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SONY SPORTS 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SONY SPORTS 3 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SONY SPORTS 4 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SONY SPORTS 5 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ", 1 SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=88853&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",ASTRO CRICKET
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",DD SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SKY SPORTS FOOTBALL HD
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",WILLOW CRICKET HD
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",TEN SPORTS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS TAMIL HD
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS TELUGU HD
+http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",PTV SPORTS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STAR SPORTS 1 HINDI HD Enect 
+http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",STARZPLAY CRICLIFE 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",WWE SPORTS 
+http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SUPER SPORTS CRICKET
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPORTS - Enect ",SUPER SPORTS FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=125439&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",ZEE CINEMA HD
+http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",ZEE CINEMA
+http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",& PICTURE
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",B4U KADAK
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",B4U MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",B4U MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=154&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",BOLLYWOOD CLASSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",BBO HD
+http://tv.cloudcdn.me:80/live.ts?channelId=86148&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",BBO CLASSIC HD
+http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",COLORS CINEPLEX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",COLORS CINEPLEX BOLLYWOOD 
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",COLORS CINEPLEX
+http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",SONY MAX 2
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",SONY MAX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",SONY MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",SONY PIX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR GOLD HD
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR UTSAV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR GOLD 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR GOLD SELECT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR MOVIES HD
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR MOVIES SELECT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",SONY WAH
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",ZEE CLASSES
+http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",ZEE BOLLYWOOD
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",ZEE ANMOL CINEMA
+http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",ZEE ACTION
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ", STAR GOLD THRILLS
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155996&extension=ts&play_token=CZcLoCZ9qK
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="MOVIES - Enect ",STAR GOLD ROMANCE
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156033&extension=ts&play_token=tlT0K0XyV8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ACTIVES - Enect ",COOKING ACTIVE
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1112130&extension=ts&play_token=k8ykrsJIVX
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ACTIVES - Enect ",PUNJAB ACTIVE
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:74:6A:13&stream=282061&extension=ts&play_token=42SIxYe5d3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ACTIVES - Enect ",COMEDY ACTIVE
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155991&extension=ts&play_token=sber0puTBY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="AMAZON PRIME - Enect ",AMAZOM PRIME SERIES
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636196&extension=ts&play_token=9tDPeeZvxY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",ABC NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=472&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",AL JAZEERA NEWS ENGLISH HS
+http://tv.cloudcdn.me:80/live.ts?channelId=4202&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",BBC WORLD NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=47112&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",CBC NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=46813&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",CGTN ENGLISH NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=33164&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",CHANNEL NEWS ASIA
+http://tv.cloudcdn.me:80/live.ts?channelId=102985&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",CNBC HD
+http://tv.cloudcdn.me:80/live.ts?channelId=4220&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",CNN HD
+http://tv.cloudcdn.me:80/live.ts?channelId=27942&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",SKY NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=72959&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",RUSSIA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=36131&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",FRANCE NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=72954&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",OCEAN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=125837&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",NBC NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=72772&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",CTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=72430&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",FOX NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=46814&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="ENGLISH NEWS - Enect ",DW ENGLISH NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=72951&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",AAJ TAK HD
+http://tv.cloudcdn.me:80/live.ts?channelId=144&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",AAJ TAK 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=42439&extension=ts&play_token=uAMsE9jgOh
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",ZEE NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=216&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",ABP NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=149&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",BHARAT SAMAACHAR
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280806&extension=ts&play_token=XnSAz5QrLq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",BBC NEWS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=157338&extension=ts&play_token=1yQXQ4Cxrg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",CNBC AWAAZ
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=280812&extension=ts&play_token=Pd8bn0587A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",CNN
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118094&extension=ts&play_token=tTQHewT2BY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",DD SPORTS HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155978&extension=ts&play_token=DM1GxTrru9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",HINDI KHABAR
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156073&extension=ts&play_token=zvMVEV1oI4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA NEWS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156045&extension=ts&play_token=Ic2HDjyFS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA NEWS HARYANA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156059&extension=ts&play_token=MIJz877qd9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA NEWS MP
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156057&extension=ts&play_token=dJpndbcgPI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA NEWS RAJASTHAN
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156061&extension=ts&play_token=5GtprrGF2M
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA TODAY
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156117&extension=ts&play_token=HNBXvwNM5w
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156047&extension=ts&play_token=pN0Zo99BTA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ", INDIA VOICE
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156143&extension=ts&play_token=RfY41GTaXt
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",MANTAVYA MEWS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155807&extension=ts&play_token=CWSIqOrCuX
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",NDTV 24/7
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=833257&extension=ts&play_token=xcER2Ovf7d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",NDTV INDIA
+http://tv.cloudcdn.me:80/live.ts?channelId=178&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",INDIA NEWS PUNJAB
+http://tv.cloudcdn.me:80/live.ts?channelId=49861&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",NEWS NATION
+http://tv.cloudcdn.me:80/live.ts?channelId=29702&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",NEWS 18
+http://tv.cloudcdn.me:80/live.ts?channelId=61901&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",NEWS X INDIA
+http://tv.cloudcdn.me:80/live.ts?channelId=36127&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",ZEE HINDUSTAN
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156137&extension=ts&play_token=4vS4WuhBMq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",ZEE BUSINESS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156122&extension=ts&play_token=EMDkb7qDGg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",REPUBLIC BHARAT
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156040&extension=ts&play_token=DiXFvZAXSc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="NEWS - Enect ",AAJ TAK TEZ
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156108&extension=ts&play_token=MJctWYtXTb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",AASTHA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156030&extension=ts&play_token=I74U7lKeYq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",AASTHA BHAJAN
+http://tv.cloudcdn.me:80/live.ts?channelId=146&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",DHARMA SANDESH
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327652&extension=ts&play_token=o2U1femCrH
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",DIVYA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=33135&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",HARE KRSNA
+http://tv.cloudcdn.me:80/live.ts?channelId=33132&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",ISHWAR TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156036&extension=ts&play_token=dOsBi6x63h
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",KRISHNA VANI
+http://tv.cloudcdn.me:80/live.ts?channelId=29210&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",LIVE ISKCON VRINDAVAN
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327543&extension=ts&play_token=J4gzrpI6LG
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",LIVE PATNA SAHAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327542&extension=ts&play_token=Iqa1vj7J7U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",SHRI SAI NATH DARSHAN
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1327402&extension=ts&play_token=Yz0f485q0T
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",PEACE OF MIND
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156078&extension=ts&play_token=bUjWqjAdli
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",SANSKAR
+http://tv.cloudcdn.me:80/live.ts?channelId=181&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",SWA SHREE
+http://tv.cloudcdn.me:80/live.ts?channelId=61658&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="SPIRITUAL - Enect ",AASTHA TV UK
+http://tv.cloudcdn.me:80/live.ts?channelId=148&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",ADITHYA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",CAPTAIN NEWS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",CAPTAIN TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",CHITHIRAM TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",COLORS HD TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",JAYA MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",KTV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",NEWS 7 TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",NEWS 18 TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",PEPPERS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",PUTHIYA THALAIMURAI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43414&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",RAJ DIGITAL PLUS
+http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",RAJ MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",STAR VIJAY
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",STAR VIJAY HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",SEITHIGAL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",SUN MUSIC HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",SUN TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",VENDHAR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TAMIL - Enect ",ZEE TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 TAMIL MOVIE - Enect ",TAMIL PREMIERE 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019905&extension=ts&play_token=vEbCYQjngc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 TAMIL MOVIE - Enect ",TAMIL PREMIERE 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019914&extension=ts&play_token=gxeFvMySVm
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 TAMIL MOVIE - Enect ",TAMIL PREMIERE 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019906&extension=ts&play_token=9HWFIFMXGF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 TAMIL MOVIE - Enect ",TAMIL PREMIERE 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019907&extension=ts&play_token=ns71BJPPra
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 TAMIL MOVIE - Enect ",TAMIL PREMIERE 5
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1024831&extension=ts&play_token=GfFKcgU1zZ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",AAMIR KHAN
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1024826&extension=ts&play_token=Uehwqqbj0I
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",HINDI CLASSIC ACTION
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636182&extension=ts&play_token=d2WrJlJs87
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",HINDI CLASSIC COMEDY
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636181&extension=ts&play_token=kOgFb1mab5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",HINDI CLASSIC COMEDY
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636180&extension=ts&play_token=vuvcACXjws
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",HINDI CLASSIC THRILLER
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636174&extension=ts&play_token=zxHFEuABVK
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",HINDI CLASSIC ROMANCE
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636175&extension=ts&play_token=ndt91RSKUj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",HINDI MOVIES
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636153&extension=ts&play_token=GwPoLwrRdy
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",SHAMAROO TV 1
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636155&extension=ts&play_token=V9shCF9Xpe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",SHAMAROO TV 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636159&extension=ts&play_token=eazlEBzn7s
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="24×7 HINDI MOVIE - Enect ",SIDHU MOOSE WALA 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=636415&extension=ts&play_token=EiPZnLqfcB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",10 Tav
+http://tv.cloudcdn.me:80/live.ts?channelId=43447&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",ABN ANDHRA JYOTI HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43448&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",CARTOON NETWORK TELUGU
+http://tv.cloudcdn.me:80/live.ts?channelId=43450&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",GEMINI COMEDY
+http://tv.cloudcdn.me:80/live.ts?channelId=43452&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",GEMINI MOVIE HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43453&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",GEMINI TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43455&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",GEMINI MUSIC HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43454&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",I NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=43456&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",ZEE TELUGU HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155866&extension=ts&play_token=1m41ucS6p1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",ZEE CINEMA TELUGU HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155872&extension=ts&play_token=NS99dGCIvr
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",V6 NEWS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155859&extension=ts&play_token=9tAHAx6Pte
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",UDAYA MOVIES
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1097629&extension=ts&play_token=yn5q2k1BbX
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",TV9 TELUGU NEWS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155863&extension=ts&play_token=IJ3flmIOEs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",TV5 NEWS
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155861&extension=ts&play_token=kXZAPHwBbF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",TELUGU TV9
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=281982&extension=ts&play_token=dJ9HlHpnRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",STAR MAA TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=281960&extension=ts&play_token=VgOajQjI03
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",ETV HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155852&extension=ts&play_token=1SosxKaCI3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",STUDIO YUVA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1097628&extension=ts&play_token=qzBkXf1iyQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",STAR MAA MOVIE HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155842&extension=ts&play_token=yBRzgRUGRB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",STAR MAA GOLD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155860&extension=ts&play_token=BsewDcHAdJ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="TELUGU - Enect ",KUSHI TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155868&extension=ts&play_token=9D22OMjAnU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",9X TASHAN
+http://tv.cloudcdn.me:80/live.ts?channelId=323&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",7X MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=61896&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",ZEE PUNJABI HARYANA
+http://tv.cloudcdn.me:80/live.ts?channelId=367&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",ZEE PUNJABI
+http://tv.cloudcdn.me:80/live.ts?channelId=28960&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",WAH PUNJABI
+http://tv.cloudcdn.me:80/live.ts?channelId=61148&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",5AAB TV
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=358130&extension=ts&play_token=9o5UwfY1n6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",TV PUNJAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=358116&extension=ts&play_token=HgkCIoC7hM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ", TATA SKY PUNJAB
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155943&extension=ts&play_token=bwaVXRI8pO 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",PUNJABI TADKA
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155941&extension=ts&play_token=vcTxuQbclz
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",5AAB GURUWANI
+http://tv.cloudcdn.me:80/live.ts?channelId=319&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",5AAB MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=320&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",AATMA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=44632&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",ABP SANJHA
+http://tv.cloudcdn.me:80/live.ts?channelId=45937&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",ALPHA ETV PLUS
+http://tv.cloudcdn.me:80/live.ts?channelId=33151&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",AAKAL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=324&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",APNA PUNJAB TV
+http://tv.cloudcdn.me:80/live.ts?channelId=36236&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",ASIA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=303&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",BAAZ TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=90831&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",BALLE BALLE TV
+http://tv.cloudcdn.me:80/live.ts?channelId=33140&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",BOOGLE BOLLYWOOD
+http://tv.cloudcdn.me:80/live.ts?channelId=327&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",CANADIAN SATH
+http://tv.cloudcdn.me:80/live.ts?channelId=44636&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",DARPAN TV
+http://tv.cloudcdn.me:80/live.ts?channelId=84521&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",CHARDIKLA TIME TV
+http://tv.cloudcdn.me:80/live.ts?channelId=330&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",CHARDIKLA GURBAANI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=36229&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",DESI CHANNEL
+http://tv.cloudcdn.me:80/live.ts?channelId=333&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",GARV PUNJAB GURBANI Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=61649&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",VAHE GURU JI
+http://tv.cloudcdn.me:80/live.ts?channelId=29212&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",SIKH CHANNEL
+http://tv.cloudcdn.me:80/live.ts?channelId=363&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",STAR CANADA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=44631&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",RATWARA SAHIB
+http://tv.cloudcdn.me:80/live.ts?channelId=33143&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",PTC SIMRAN
+http://tv.cloudcdn.me:80/live.ts?channelId=356&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",PTC PUNJABI
+http://tv.cloudcdn.me:80/live.ts?channelId=355&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",PTC DHOL TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43378&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",POLITICS PUNJAB
+http://tv.cloudcdn.me:80/live.ts?channelId=85546&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PUNJABI - Enect ",PBN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=346&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",8XM
+http://tv.cloudcdn.me:80/live.ts?channelId=370&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",24 NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=368&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",92 NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=371&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",A PLUS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=373&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",AAJ ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=375&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",AAJ NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=376&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ABB TAK
+http://tv.cloudcdn.me:80/live.ts?channelId=378&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",APNA CHANNEL
+http://tv.cloudcdn.me:80/live.ts?channelId=379&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ARY DIGITAL HD
+http://tv.cloudcdn.me:80/live.ts?channelId=380&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ARY NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=386&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ARY ZAUQ
+http://tv.cloudcdn.me:80/live.ts?channelId=57535&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ARY ZINDAGI
+http://tv.cloudcdn.me:80/live.ts?channelId=392&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ATV ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=394&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",AUR LIFE HD
+http://tv.cloudcdn.me:80/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",AVT KHYBER
+http://tv.cloudcdn.me:80/live.ts?channelId=464&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",AWAZ ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=22762&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",BOL ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",BOL NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=397&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",CANADA ONE TV
+http://tv.cloudcdn.me:80/live.ts?channelId=461&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",CAPITAL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=22759&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",CHANNEL FIVE
+http://tv.cloudcdn.me:80/live.ts?channelId=36260&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",CITY 41
+http://tv.cloudcdn.me:80/live.ts?channelId=462&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",CITY NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=57536&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",DAWN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=403&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",DHARTI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=57493&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",DISCOVER PAKISTAN
+http://tv.cloudcdn.me:80/live.ts?channelId=33167&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",DUNIYA NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=405&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",EAWAZ TV
+http://tv.cloudcdn.me:80/live.ts?channelId=22761&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",EXPRESS ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",EXPRESS NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=408&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",FILMAX
+http://tv.cloudcdn.me:80/live.ts?channelId=36261&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",FILM WORLD
+http://tv.cloudcdn.me:80/live.ts?channelId=409&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GEO ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=410&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GEO KAHANI
+http://tv.cloudcdn.me:80/live.ts?channelId=412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GEO NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GEO TEZ
+http://tv.cloudcdn.me:80/live.ts?channelId=416&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GNN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=417&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GREEN TV ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",GTN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=32496&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HAMARA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=52493&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HUM MASALA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HMM NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=419&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HUM PASTHO 1
+http://tv.cloudcdn.me:80/live.ts?channelId=439&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HUM SITARY
+http://tv.cloudcdn.me:80/live.ts?channelId=420&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HUM TV
+http://tv.cloudcdn.me:80/live.ts?channelId=422&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HUM TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=423&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",HUM WORLD
+http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",JALWA
+http://tv.cloudcdn.me:80/live.ts?channelId=428&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",JOO MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",K21 NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=66&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",KAWISH TV
+http://tv.cloudcdn.me:80/live.ts?channelId=468&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",KAY2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=429&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",KHYBAR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=459&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",KOHINOOR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=430&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",KTN ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=22758&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",KTN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=22757&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",LAHORE NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=432&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",LAHORE RANG NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=22753&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",MASHRIQ HD
+http://tv.cloudcdn.me:80/live.ts?channelId=57495&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",N6 TV
+http://tv.cloudcdn.me:80/live.ts?channelId=123907&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",NEO NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=436&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",NEWS ONE
+http://tv.cloudcdn.me:80/live.ts?channelId=437&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PAK TV
+http://tv.cloudcdn.me:80/live.ts?channelId=466&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PLAY ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=440&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PNN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=115213&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PTV HOME
+http://tv.cloudcdn.me:80/live.ts?channelId=444&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PTV NATIONAL
+http://tv.cloudcdn.me:80/live.ts?channelId=445&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PTV NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=446&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PTV WORLD NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=447&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",PUBLIC NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=448&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",RAAVI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=22763&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",ROHI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=57490&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",SAMAA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=449&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",SEE TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.linkpicture.com/q/download_13.webp" group-title="PAKISTAN - Enect ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
