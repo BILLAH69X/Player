@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Plyr.io Player</title>
+       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css" />
+    <script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
+
+</head>
+<body>
+   <div id="player-container">
+      <video id="my-video" controls autoplay playsinline>
+         <source src="" type="application/x-mpegURL">
+      </video>
+   </div>
+
+   
+   <script>
+      const player = new Plyr('#my-video', {
+         // Plyr configuration options
+         // For example: captions, quality, etc.
+      });
+
+      const queryParams = new URLSearchParams(window.location.search);
+      const source = queryParams.get("source") || ""; // Retrieve the source parameter from the URL
+
+      const videoSource = {
+         type: 'video',
+         sources: [
+            {
+               src: source,
+               type: 'application/x-mpegURL',
+            },
+         ],
+      };
+
+      player.source = videoSource;
+   </script>
+</body>
+</html>
