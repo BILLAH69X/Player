@@ -1,0 +1,31 @@
+    <div id="jwplayerDiv"></div>
+    <!--<img class="logo" src="https://mominvaithanks.xyz/mominRocks/as.image" alt="Logo">-->
+     <script src="//content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    // <script type="text/javascript">
+    //     // Use the PHP configuration directly within the JavaScript
+        var config = {"file":"https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH003720120/Live/channel(skysportsmix)/manifest720.mpd","drm":{"clearkey":{"keyId":"00051d6cdd7231b7370dcf8eb66cf6181","key":"06f88d449edec6e4389950b0bda5cd68"}}};
+ 
+        jwplayer("jwplayerDiv").setup({
+          file: config.file,
+            position: 'bottom',
+            autostart: true,
+            stretching: "",
+            width: "100%",
+            height:"80%",
+             drm: {
+                clearkey: {
+                    keyId: config.drm.clearkey.keyId,
+                    key: config.drm.clearkey.key
+                }
+            },
+            type: "dash",
+          
+        });
+    // </script>
+    
+    <!--<video controls>-->
+    <!--    <source src="https://mominvaithanks.xyz/mominRocks/yt_live.php?m3u8=@europeancricketnetwork&serial=1&e.m3u8" type="application/x-mpegURL">-->
+    <!--    Your browser does not support the video tag.-->
+    <!--</video>-->
+   
+</body>
